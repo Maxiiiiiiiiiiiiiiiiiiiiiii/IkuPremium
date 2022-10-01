@@ -1,4 +1,4 @@
---// Iku Premium Source Leaked by czo#0001
+
 
 if game.PlaceId == 2788229376 then
     getgenv().adverting = false
